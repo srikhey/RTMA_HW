@@ -4,7 +4,7 @@
 
 @Description:
 
-  Here the codes are provided to analyze the model outputs (GFS & RTMA) and observations (GLDAS & IMD station data). All the necessary data to plot the figures are given in DATA.zip folder. Grads scripts are given to plot the data. Excel sheets are also proveded to compare the model data with the station data. NCL script has been given to calculate the heat index.
+  Here the codes are provided to analyze the model outputs (GFS & RTMA) and observations (GLDAS & IMD station data). All the necessary data to plot the figures are given in DATA.zip folder. Grads scripts are given to plot the data. Excel sheets are also provided to compare the model data with the station data. NCL script has been given to calculate the heat index.
 
 @Getting started:
 
