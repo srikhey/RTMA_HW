@@ -97,6 +97,5 @@
 "run grmask.gs"
 "draw title GLDAS_MeanTmax"
 "run cbarn"
-"set vpage off"
 "printim GLDASAirTemp_April12_20_2023_Ind-MeanTEMP.jpg x1000 y741 white"
 "quit"
